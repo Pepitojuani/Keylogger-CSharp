@@ -1,0 +1,7 @@
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\bin\Debug\EasyKeylogger.exe.config
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\bin\Debug\EasyKeylogger.exe
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\bin\Debug\EasyKeylogger.pdb
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\obj\Debug\EasyKeylogger.csprojAssemblyReference.cache
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\obj\Debug\EasyKeylogger.csproj.CoreCompileInputs.cache
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\obj\Debug\EasyKeylogger.exe
+D:\Master\Malware\EasyKeylogger\EasyKeylogger\EasyKeylogger\obj\Debug\EasyKeylogger.pdb
